@@ -1,0 +1,27 @@
+/* Resizing the image*/
+.gallery img{
+    width: 33%;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-image: linear-gradient("C:\Users\USER\Documents\WEBSITE FNB APP\SuperHero-APP\images\Superhero-1-1-1200x834.jpg");
+    padding-top: 12px;
+}
+
+#menu a{
+     color: #ffffff;
+    font-family: Halvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+#menu a:hover{
+    color: black;
+}
